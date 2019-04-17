@@ -1,0 +1,8 @@
+{
+  "name": "bluedoc-icons",
+  "version": "1.0.1",
+  "description": "Iconfont for BlueDoc App",
+  "repository": "git@github.com:thebluedoc/bluedoc-icons.git",
+  "author": "Jason Lee <huacnlee@gmail.com>",
+  "license": "MIT"
+}
