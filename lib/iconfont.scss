@@ -1,10 +1,10 @@
 @font-face {
   font-family: "iconfont";
-  src: url(~bluedoc-icons/lib/iconfont.eot);
-  src: url(~bluedoc-icons/lib/iconfont.eot#iefix) format('embedded-opentype'),
-       url(~bluedoc-icons/lib/iconfont.woff) format('woff'),
-       url(~bluedoc-icons/lib/iconfont.ttf) format('truetype'),
-       url(~bluedoc-icons/lib/iconfont.svg#bluedoc) format('svg');
+  src: url(~@thebluedoc/icons/lib/iconfont.eot);
+  src: url(~@thebluedoc/icons/lib/iconfont.eot#iefix) format('embedded-opentype'),
+       url(~@thebluedoc/icons/lib/iconfont.woff) format('woff'),
+       url(~@thebluedoc/icons/lib/iconfont.ttf) format('truetype'),
+       url(~@thebluedoc/icons/lib/iconfont.svg#bluedoc) format('svg');
 }
 
 .fa-file:before {
